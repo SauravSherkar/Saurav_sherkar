@@ -24,8 +24,9 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@Saurav Sherkar] ()
+- 💻 GitHub: [@Saurav Sherkar] (https://github.com/SauravSherkar)
 - 🔗 LinkedIn: [Saurav Sherkar] (https://www.linkedin.com/in/saurav-sanjay-sherkar-b521672a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 
 
 
 ---
