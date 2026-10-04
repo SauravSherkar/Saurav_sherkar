@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm Piyush Mandhare
-
+# Hi there! 👋 I'm Saurav Sherkar
 ### 🎓 Engineering Student | Aspiring Developer
 
 Welcome to my GitHub profile! I'm learning to code, exploring new technologies, and building projects along the way.
@@ -8,7 +7,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 - 🏫 Studying at **Sinhgad Institute of Technology**
 - 🌱 Currently learning **Python, Git & GitHub**
-- 💻 Interested in **Software Development + AI Integration**
+- 💻 Interested in **Software Development + Cyber Security**
 - 🎯 Goal: **Build useful projects and improve my coding skills**
 - 🤝 Open to learning and collaborating with other developers
 
@@ -21,12 +20,13 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-- **My First Project** — JanSetu AI  [View project](https://github.com/piyush-devx10/HackersX-JanSetu-AI)
+- **My First Project** — JanSetu AI  [View project] (https://github.com/SauravSherkar/Git_1.1)
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [@piyush-devx](https://github.com/piyush-devx10)
-- 🔗 LinkedIn: [Piyush Mandhare](https://www.linkedin.com/in/piyush-mandhare-8192b234a/)
+- 💻 GitHub: [@Saurav Sherkar] ()
+- 🔗 LinkedIn: [Saurav Sherkar] (https://www.linkedin.com/in/saurav-sanjay-sherkar-b521672a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 ---
 ⭐ Thanks for visiting my profile! Keep learning and keep building. 🚀
