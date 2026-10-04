@@ -1,4 +1,16 @@
+# Hi there! 👋 I'm Piyush Mandhare
 
+### 🎓 Engineering Student | Aspiring Developer
+
+Welcome to my GitHub profile! I'm learning to code, exploring new technologies, and building projects along the way.
+
+## 👨‍💻 About Me
+
+- 🏫 Studying at **Sinhgad Institute of Technology**
+- 🌱 Currently learning **Python, Git & GitHub**
+- 💻 Interested in **Software Development + AI Integration**
+- 🎯 Goal: **Build useful projects and improve my coding skills**
+- 🤝 Open to learning and collaborating with other developers
 
 ## 🛠️ Skills & Tools
 
